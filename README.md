@@ -1,4 +1,4 @@
-### Population-Forecast-Prediction
+# Population Forecast Prediction
 
 ## Description
 This project aims to forecast the population of Haggis on a particular mountain. Ecologists have collected precise recordings of the population over five years and estimates from satellite remote sensing. The primary objective is to predict the true population 12 months into the future using various machine learning and time series analysis techniques.
